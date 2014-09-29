@@ -60,7 +60,7 @@ autocmd! bufwritepost _vimrc source $VIM/_vimrc
 syntax on
 colorscheme delek
 "
-"
+"测试gitflow
 "
 "##########Bundle 插件管理 配置开始#############
 filetype off
