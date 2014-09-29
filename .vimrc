@@ -62,8 +62,6 @@ colorscheme delek
 "
 "
 "
-"
-"
 "##########Bundle 插件管理 配置开始#############
 filetype off
 set rtp+=D:/vim73/vimfiles/bundle/vundle/
