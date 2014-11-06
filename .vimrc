@@ -1,4 +1,4 @@
-"TODO: jshint
+﻿"TODO: jshint
 "TODO:按指定字符对齐
 
 "是否兼容VI,开启iMproved,用Bundlet管理插件，此选项必须设置nocompatible
@@ -178,4 +178,3 @@ nmap mm :%s/\r//g<cr>
 "ff : 前后补全
 "vmap ff <Esc>`>i')?><Esc>`<i<?=$this->_('<Esc>
 vmap ff "zdi<?=$this->_('<C-R>z');?><ESC>
-
